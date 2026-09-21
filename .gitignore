@@ -1,0 +1,5 @@
+__pycache__/
+_book_*.html
+# 내부 작업 기록(원본 자료 정보 포함)은 저장소에 올리지 않는다
+checklist.md
+context-notes.md
