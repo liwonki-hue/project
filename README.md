@@ -8,7 +8,16 @@
 
 GitHub에서 파일을 열면 브라우저에서 바로 볼 수 있고, 휴대전화에서도 열람할 수 있다. 내려받아 보려면 파일 페이지의 다운로드 버튼을 쓴다.
 
-## 구성
+## CCGT 배관 가이드
+
+복합화력(CCGT) 발전소 배관 공사를 위한 영문 가이드북과 요약 자료이다. 유틸리티 계통부터 시운전 단계별 배관 선행 조건, 시공 관리, ASME B31.1·B31.3 압력시험, 현장 사례(Lessons Learned)까지 다룬다.
+
+- [CCGT Piping Guide Book.pdf](ccgt-piping-guide/CCGT%20Piping%20Guide%20Book.pdf) (58쪽)
+- [CCGT Piping Guide Summary.pptx](ccgt-piping-guide/CCGT%20Piping%20Guide%20Summary.pptx) (요약 15장)
+
+압력시험 수치 등 규격 내용은 적용하는 코드 개정판 원문과 프로젝트 사양서가 우선한다.
+
+## 교재 구성
 
 | 편 | 장 |
 |---|---|
