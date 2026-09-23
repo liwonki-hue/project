@@ -17,6 +17,12 @@ GitHub에서 파일을 열면 브라우저에서 바로 볼 수 있고, 휴대�
 
 압력시험 수치 등 규격 내용은 적용하는 코드 개정판 원문과 프로젝트 사양서가 우선한다.
 
+관련 코드 원문(ASME B31.1, B31.3)은 저작권상 이 저장소에 올리지 않고, 공식 구매·조회 경로를 [Code/README.md](Code/README.md)에 안내한다.
+
+## 프로젝트 자료
+
+- [Turkistan CCPP Piping Guidance.pdf](Turkistan%20CCPP%20Piping%20Guidance.pdf) — Turkistan 복합화력 프로젝트 신규 합류자·이해관계자 오리엔테이션용 배관 시공 가이드(17쪽)
+
 ## 교재 구성
 
 | 편 | 장 |
